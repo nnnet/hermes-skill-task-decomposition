@@ -1,0 +1,19 @@
+README.md
+  s_7a7f7ab24f3a35::t_29e9a333081308 1-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "9d97eb6d1f2ad993c402ad15cfd3e46ee40b38bf",
+  "prompts": {},
+  "sessions": {
+    "s_7a7f7ab24f3a35": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0f51faf1-1ebe-45f3-a00b-afcca82cd889",
+        "model": "OpenRouter/minimax/minimax-m3:free"
+      },
+      "human_author": "nnnet <21066097+nnnet@users.noreply.github.com>"
+    }
+  }
+}
